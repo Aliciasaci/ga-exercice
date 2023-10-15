@@ -1,7 +1,6 @@
 name: ci
 
 on:
-  1.2
   push:
     branches:
       - dev
